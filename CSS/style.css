@@ -1,0 +1,17 @@
+html,
+body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+ul{
+    /*decoration:none*/
+}
+
+a{
+    text-decoration-style: none;
+    color: aliceblue;
+}
+
+
