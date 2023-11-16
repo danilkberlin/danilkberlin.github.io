@@ -1,29 +1,90 @@
-.bgimage {
-    height: 100vh;
-    background: url('../images/heroBg.jpg');
-    background-size: cover;
-    position: relative;
+:root{
+    --color1: orange;
+    --color2: #151515;
 }
 
-.hero_title {
-    font-size: 4.5rem;
+html,
+body{
+    font-family: 'Roboto', sans-serif;
 }
 
-.hero_desc {
-    font-size: 2rem;
+header{
+    padding: 0 0 70px 0;
 }
 
-.hero-text {
+footer,
+section{
+    padding: 100px 0;
+}
+
+.header{
+    background-color: var(--color2);
+}
+
+.navbar-brand-color{
+    color: var(--color1);
+}
+
+.dropdown-menu-bcolor{
+    background-color: var(--color2);
+}
+
+.dropdown-item-color{
+    color: white;
+}
+
+.footer{
+    background-color: var(--color2);
+    color: gray;
+}
+
+.footer-text{
     text-align: center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
 }
 
-.navlink {
-    text-decoration: none;
-    margin: 1rem;
-    color: white;
+.itd_play{
+    background-color: var(--color2);
+    transition: all 0.2s ease;
+    color: gray;
+}
+
+.itd_play:hover{
+    background-color: var(--color1);
+}
+
+.top{
+    background-color: #151515;
+}
+
+.text_top{
+    padding: 15px 0;
+}
+
+.text_style-top{
+    font-family: 'Playfair Display', serif;
+}
+
+.about-me{
+    background-color: var(--color2);
+}
+.border_about-me{
+    border: 1px solid;
+    border-radius: 7px;
+    box-shadow: 4px 4px 4px 4px black;
+}
+
+.progress_bar-p{
+    padding: 0 10px;
+}
+
+.border_about-me{
+    display: flex;
+}
+
+.progress_b{
+    padding: 0 10px;
+}
+
+.progress-text{
+    padding: 8px 0 8px 0;
 }
