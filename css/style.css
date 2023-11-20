@@ -13,9 +13,6 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-header {
-    padding: 0 0 70px 0;
-}
 
 footer,
 section {
@@ -196,7 +193,8 @@ section {
     margin: 0 0 16px 0;
 }
 
-.internship-eperience {
+.internship-eperience,
+.my-portfolio {
     background-color: #151515;
 }
 
