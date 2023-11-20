@@ -1,199 +1,213 @@
-:root{
+:root {
     --color1: orange;
     --color2: #151515;
     --color3: grey;
 }
 
-.text_f_f{
+.text_f_f {
     font-family: 'Playfair Display', serif;
 }
 
 html,
-body{
+body {
     font-family: 'Roboto', sans-serif;
 }
 
-header{
+header {
     padding: 0 0 70px 0;
 }
 
 footer,
-section{
+section {
     padding: 100px 0;
 }
 
 
-.header{
+.header {
     background-color: var(--color2);
 }
 
-.header nav{
+.header nav {
     border-bottom: 0.5px solid #363636d8;
 }
 
-.navbar-brand-color{
+.navbar-brand-color {
     color: var(--color1);
 }
 
-.dropdown-menu-bcolor{
+.dropdown-menu-bcolor {
     background-color: var(--color2);
 }
 
-.dropdown-item-color{
+.dropdown-item-color {
     color: white;
 }
 
-.footer{
+.footer {
     background-color: var(--color2);
     color: gray;
 }
 
-.footer-text{
+.footer-text {
     text-align: center;
 }
 
-.itd_play{
+.itd_play {
     background-color: var(--color2);
     transition: all 0.2s ease;
     color: gray;
 }
 
-.itd_play:hover{
+.itd_play:hover {
     background-color: var(--color1);
 }
 
-.top{
+.top {
     background-color: #151515;
 }
 
-.text_top{
+.text_top {
     padding: 15px 0;
 }
 
-.text_dec_top{
+.text_dec_top {
     border-left: 5px solid orange;
     padding: 0 15px;
 }
 
-.about-me{
+.about-me {
     background-color: var(--color2);
 }
-.border_about-me{
+
+.border_about-me {
     border: 1px solid;
     border-radius: 7px;
     box-shadow: 4px 4px 4px 4px black;
     padding: 15px 0;
 }
 
-.progress_bar-p{
+.progress_bar-p {
     padding: 0 10px;
 }
 
-.border_about-me{
+.border_about-me {
     display: flex;
 }
 
-.progress_b{
+.progress_b {
     padding: 0 10px;
 }
 
-.progress-text{
+.progress-text {
     padding: 8px 0 8px 0;
 }
 
-.services{
+.services {
     background-color: #151515;
 }
 
-.web_text{
+.web_text {
     font-family: 'Playfair Display', serif;
 }
 
-.b_web{
+.b_web {
     border: 1px solid orange;
     border-radius: 15px;
     padding: 25px 0;
     margin: 50px 10px;
 }
-.color-logo, .text-po{
+
+.color-logo,
+.text-po {
     padding: 15px 0;
 }
-.text_web{
+
+.text_web {
     padding: 10px 55px;
 }
 
-.form_mad{
+.form_mad {
     margin: 10px 0;
 }
-.contact{
+
+.contact {
     background-color: #151515;
 }
-.border_contact{
+
+.border_contact {
     border: 1px solid black;
     padding: 30px;
     border-radius: 5px;
     box-shadow: 4px 4px 10px 4px black;
 }
 
-.pad_cont{
+.pad_cont {
     padding: 40px 0;
 }
 
- .pad_text_c{
+.pad_text_c {
     margin: 0 0 20px 0;
- }
+}
 
-.pad_text_contact{
+.pad_text_contact {
     margin: 20px 0 20px 0;
 }
 
-.cont_form{
+.cont_form {
     border: 1px solid grey;
     color: white;
     background: #151515;
 }
 
-.cont_form::placeholder{
+.cont_form::placeholder {
     color: rgba(255, 255, 255, 0.645);
 }
 
-.btn__sty{
+.cont_form:focus {
+    color: rgba(255, 255, 255, 0.645);
+    background: #151515;
+}
+
+.btn__sty {
     border: 1px solid rgba(255, 255, 255, 0.645);
     color: white;
     background-color: #151515;
     border-radius: 10px;
 }
 
-.btn__sty:hover{
+.btn__sty:hover {
     border: 1px solid white;
     color: #151515;
     background-color: orange;
 }
 
-.cont_bobrd{
+.cont_bobrd {
     border: 2px solid orange;
     background-color: #151515;
     padding: 50px 5px;
     border-radius: 15px;
 }
 
-.mod_cont{
-   margin: 40px 0 16px 0;
+.mod_cont {
+    margin: 40px 0 16px 0;
 }
 
-.mod_cont-2{
+.mod_cont-2 {
     margin: 0 0 16px 0;
 }
-.internship-eperience{
+
+.internship-eperience {
     background-color: #151515;
 }
-.link_text_dc{
+
+.link_text_dc {
     color: gray;
 }
 
-.cont_mag{
+.cont_mag {
     margin: 0 0 30px 0;
 }
-.logo_footer_m{
+
+.logo_footer_m {
     margin: 15px;
 }
