@@ -1,7 +1,7 @@
 :root {
-    --color1: orange;
+    --color1: #ffa500;
     --color2: #151515;
-    --color3: grey;
+    --color3: #808080;
 }
 
 .text_f_f {
@@ -183,6 +183,22 @@ section {
     background-color: #151515;
     padding: 50px 5px;
     border-radius: 15px;
+    fill: #ffa500;
+}
+
+.cont_bobrd:hover {
+    border: 1px solid #000;
+    background-color: orange;
+    box-shadow: 5px 3px 4px 3px #000;
+    fill: #151515;
+}
+
+.logo-color-fill {
+    fill: #ffa500;
+}
+
+.logo-color-fill:hover {
+    fill: #151515;
 }
 
 .mod_cont {
