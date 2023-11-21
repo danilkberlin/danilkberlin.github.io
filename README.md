@@ -7,6 +7,7 @@
 - [X] register GitHub account
 - [X] learn Git / GitHub [basics](https://github.com/skills/introduction-to-github)
 - [X] practice terminal commands with [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+- [ ] explore [VS Code] documentation (https://code.visualstudio.com/docs/?dv=osx)  
 - [ ] refresh [HTML/CSS](https://developer.mozilla.org/en-US/docs/Learn/HTML) skills
 - [ ] [Internet is Hard book](https://internetingishard.netlify.app/)
 - [ ] learn & explore [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
