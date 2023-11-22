@@ -13,6 +13,7 @@
 - [ ] learn & explore [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 - [X] create a new [portfolio using Bootstrap](https://www.freecodecamp.org/news/how-to-create-a-portfolio-website-using-html-css-javascript-and-bootstrap/) based on the design on [Behance](https://www.behance.net/gallery/175441197/Creative-Portfolio-WordPress-Website-Web-Design?tracking_source=search_projects%7Cweb+design+portfolio)
 - [X] publish the portfolio in GitHub
+- [ ] learn & explore [JavaScript]
 
 
 **Plan for this week (Week3 / Weeks4)**
