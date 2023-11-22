@@ -1,6 +1,6 @@
-document.addEventListener("DOMContentLoaded", function () {
-    const textElement = document.getElementById("text-my-text");
-    const words = ["I'm Danylo", "I'm Web-Development"];
+document.addEventListener("DOMContentLoaded", () => {
+    const textElement = document.getElementById("typewriter");
+    const words = ["I'm Danylo", "I do Web-Development", "I live in Berlin", "I'm from Ukraine"];
     let wordIndex = 0;
     let letterIndex = 0;
 
