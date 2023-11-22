@@ -28,18 +28,6 @@ section {
     border-bottom: 0.5px solid #363636d8;
 }
 
-.navbar-brand-color {
-    color: var(--color1);
-}
-
-.dropdown-menu-bcolor {
-    background-color: var(--color2);
-}
-
-.dropdown-item-color {
-    color: white;
-}
-
 .footer {
     background-color: var(--color2);
     color: gray;
@@ -165,14 +153,6 @@ section {
     padding: 30px;
     border-radius: 5px;
     box-shadow: 4px 4px 10px 4px black;
-}
-
-.pad_cont {
-    padding: 40px 0;
-}
-
-.pad_text_c {
-    margin: 0 0 20px 0;
 }
 
 .pad_text_contact {
